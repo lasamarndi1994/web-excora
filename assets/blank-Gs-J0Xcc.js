@@ -1,0 +1,1 @@
+import{l as c,aa as p,ad as n,a6 as e,n as a,ab as r}from"./vue-vendor-CqdcLwJE.js";const i=c({__name:"blank",setup(s){return(l,m)=>{const o=e("router-view"),t=e("v-main"),_=e("v-app");return r(),p(_,null,{default:n(()=>[a(t,null,{default:n(()=>[a(o)]),_:1})]),_:1})}}});export{i as default};

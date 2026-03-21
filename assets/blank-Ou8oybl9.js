@@ -1,1 +1,0 @@
-import{d as c,c as r,w as o,r as e,a as n,o as p}from"./index-DLVTDhAP.js";const i=c({__name:"blank",setup(s){return(l,m)=>{const t=e("router-view"),a=e("v-main"),_=e("v-app");return p(),r(_,null,{default:o(()=>[n(a,null,{default:o(()=>[n(t)]),_:1})]),_:1})}}});export{i as default};

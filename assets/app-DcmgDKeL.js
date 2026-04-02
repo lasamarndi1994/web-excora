@@ -1,0 +1,1 @@
+import{it as e}from"./runtime-core.esm-bundler-CUaHlF4j.js";import{n as t}from"./pinia-DD43wtfE.js";var n=t(`app`,()=>{let t=e(!0),n=e({show:!1,message:``,color:`success`});function r(){t.value=!t.value}function i(e,t=`success`){n.value={show:!0,message:e,color:t}}return{drawer:t,snackbar:n,toggleDrawer:r,showSnack:i}});export{n as t};
